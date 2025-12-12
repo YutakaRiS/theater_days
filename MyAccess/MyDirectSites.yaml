@@ -1,3 +1,4 @@
 payload:
-  #- DOMAIN,pubads.g.doubleclick.net
+  - DOMAIN-SUFFIX,agedm.io
+  - DOMAIN-SUFFIX,hellotalk8.com
   - DOMAIN,so.2mdn.net
