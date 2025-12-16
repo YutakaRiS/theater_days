@@ -6,4 +6,6 @@ payload:
   - DOMAIN,wsdgp.games.dmm.com
   - DOMAIN,api-wsdgp.games.dmm.com
   - DOMAIN,accounts.dmm.com
+  - DOMAIN,webstore.cygames.com
+  - DOMAIN,priconne-redive.jp
   
