@@ -11,4 +11,5 @@ payload:
   - DOMAIN,account.cygames.com
   - DOMAIN,parts.cygames.co.jp
   - DOMAIN,auth.cygames.com
+  - DOMAIN,cygamespf.g.kuroco.app
   
