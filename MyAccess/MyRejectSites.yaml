@@ -57,6 +57,7 @@ payload:
   - DOMAIN-KEYWORD,tiava
   - DOMAIN-KEYWORD,jiedm
   - DOMAIN-KEYWORD,hstream.m
+  - DOMAIN-KEYWORD,kanav
 
   - DOMAIN-KEYWORD,dse
   - DOMAIN-KEYWORD,avido
@@ -65,7 +66,6 @@ payload:
   - DOMAIN-KEYWORD,ube.ne
   - DOMAIN-KEYWORD,uuan
   - DOMAIN-KEYWORD,ornhu
-  - DOMAIN-KEYWORD,anav
   - DOMAIN-KEYWORD,dlema
   - DOMAIN-KEYWORD,ni-je
   - DOMAIN-KEYWORD,ilymot
