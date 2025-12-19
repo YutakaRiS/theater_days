@@ -8,6 +8,8 @@ payload:
   - DOMAIN-KEYWORD,.pl 
   - DOMAIN-KEYWORD,xxx
 
+  - DOMAIN-KEYWORD,tube8
+  - DOMAIN-KEYWORD,ruvideo
   - DOMAIN-KEYWORD,thumbzilla
   - DOMAIN-KEYWORD,ru2video
   - DOMAIN-KEYWORD,xvideo
