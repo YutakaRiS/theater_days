@@ -68,6 +68,7 @@ payload:
   - DOMAIN-KEYWORD,kanav
   - DOMAIN-KEYWORD,.jitsu.
   - DOMAIN-KEYWORD,noodlemagazine
+  - DOMAIN-KEYWORD,dailymotion
 
   - DOMAIN-KEYWORD,dse
   - DOMAIN-KEYWORD,avido
@@ -77,7 +78,6 @@ payload:
   - DOMAIN-KEYWORD,uuan
   - DOMAIN-KEYWORD,ornhu
   - DOMAIN-KEYWORD,ni-je
-  - DOMAIN-KEYWORD,ilymot
   - DOMAIN-KEYWORD,ateu
   - DOMAIN-KEYWORD,beXL
   - DOMAIN-KEYWORD,sbia
