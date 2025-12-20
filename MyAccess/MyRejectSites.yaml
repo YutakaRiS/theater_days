@@ -67,6 +67,7 @@ payload:
   - DOMAIN-KEYWORD,hstream.m
   - DOMAIN-KEYWORD,kanav
   - DOMAIN-KEYWORD,.jitsu.
+  - DOMAIN-KEYWORD,noodlemagazine
 
   - DOMAIN-KEYWORD,dse
   - DOMAIN-KEYWORD,avido
@@ -75,7 +76,6 @@ payload:
   - DOMAIN-KEYWORD,ube.ne
   - DOMAIN-KEYWORD,uuan
   - DOMAIN-KEYWORD,ornhu
-  - DOMAIN-KEYWORD,dlema
   - DOMAIN-KEYWORD,ni-je
   - DOMAIN-KEYWORD,ilymot
   - DOMAIN-KEYWORD,ateu
