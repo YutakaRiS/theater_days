@@ -1,2 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,crunchyroll.com
+  - DOMAIN,ip-api.com 
+  - DOMAIN,api.myip.com 
+  - DOMAIN,ipapi.co 
+  - DOMAIN,ip-api.com 
+  - DOMAIN,ipinfo.io 
+  - DOMAIN,ipwho.is 
+  - DOMAIN,ident.me
