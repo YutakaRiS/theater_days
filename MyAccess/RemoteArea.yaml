@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,ip-api.com 
+  - DOMAIN,api.ip.sb
   - DOMAIN,api.myip.com 
   - DOMAIN,ipapi.co 
   - DOMAIN,ip-api.com 
