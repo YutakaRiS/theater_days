@@ -1,15 +1,4 @@
 payload:
   - DOMAIN,api-priconne-redive.cygames.jp
   - DOMAIN,api-umamusume.cygames.jp
-  - DOMAIN,apidgp-gameplayer.games.dmm.com
-  - DOMAIN,webdgp-gameplayer.games.dmm.com
-  - DOMAIN,wsdgp.games.dmm.com
-  - DOMAIN,api-wsdgp.games.dmm.com
-  - DOMAIN,accounts.dmm.com
-  - DOMAIN,webstore.cygames.com
-  - DOMAIN,priconne-redive.jp
-  - DOMAIN,account.cygames.com
-  - DOMAIN,parts.cygames.co.jp
-  - DOMAIN,auth.cygames.com
-  - DOMAIN,cygamespf.g.kuroco.app
   
