@@ -6,7 +6,8 @@ payload:
   - DOMAIN-KEYWORD,sex
   - DOMAIN-KEYWORD,adult
   - DOMAIN-KEYWORD,xxx
-
+  
+  - DOMAIN-KEYWORD,h-anime
   - DOMAIN-KEYWORD,henvid
   - DOMAIN-KEYWORD,tktube
   - DOMAIN-KEYWORD,fapcat 
