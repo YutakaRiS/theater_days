@@ -154,6 +154,6 @@ payload:
   - DOMAIN-KEYWORD,uxh
   - DOMAIN-KEYWORD,vxh
   - DOMAIN-KEYWORD,wxh
-  - DOMAIN-KEYWORD,xxh
+#  - DOMAIN-KEYWORD,xxh
   - DOMAIN-KEYWORD,yxh
   - DOMAIN-KEYWORD,zxh
