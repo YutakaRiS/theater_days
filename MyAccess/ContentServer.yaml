@@ -1,0 +1,15 @@
+payload:
+  - DOMAIN,e9844.b.akamaiedge.net
+  # > アズールレーン
+  - DOMAIN,blhxstatic.akamaized.net
+  # > 雀魂
+  # > ブルーアーカイブ
+  # > ミリシタ（ミリオンライブシアターディーズ）
+  - DOMAIN,d2sf4w9bkv485c.cloudfront.net
+  # > シャニマス（シャイニーカラーズ）
+  # > プリコネ
+  - DOMAIN,prd-priconne-redive.akamaized.net
+  # > ウマ娘
+  - DOMAIN,prd-storage-game-umamusume.akamaized.net
+  - DOMAIN,prd-storage-app-umamusume.akamaized.net
+  # > PSO2
