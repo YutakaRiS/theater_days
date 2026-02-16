@@ -23,6 +23,7 @@ payload:
   - DOMAIN,priconne-redive.jp
   - DOMAIN,cygamespf.g.kuroco.app
   # > プリコネ
+  - DOMAIN,e9844.b.akamaiedge.net
   - DOMAIN,api-priconne-redive.cygames.jp
   - DOMAIN,prd-priconne-redive.akamaized.net
   - DOMAIN-SUFFIX,priconne-redive.jp
