@@ -8,7 +8,7 @@ payload:
   # > シャニマス（シャイニーカラーズ）
   # > プリコネ
   - DOMAIN,prd-priconne-redive.akamaized.net
-  - DOMAIN,a1902.dscb.akamai.net
+ # - DOMAIN,a1902.dscb.akamai.net
   # > ウマ娘
   - DOMAIN,prd-storage-game-umamusume.akamaized.net
   - DOMAIN,prd-storage-app-umamusume.akamaized.net
