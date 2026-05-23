@@ -27,7 +27,7 @@ payload:
   - DOMAIN,api-priconne-redive.cygames.jp
   - DOMAIN,prd-priconne-redive.akamaized.net
   - DOMAIN-SUFFIX,priconne-redive.jp
-  - DOMIAN,a1902.dscb.akamai.net
+  - DOMIAN,a1902.dscb.akamai.net 
   # > ウマ娘
   - DOMAIN,api-umamusume.cygames.jp
   - DOMAIN,prd-storage-game-umamusume.akamaized.net
