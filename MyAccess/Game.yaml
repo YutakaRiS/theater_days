@@ -3,7 +3,7 @@ payload:
   # > アズールレーン
   - DOMAIN,blhxjploginapi.azurlane.jp
   - DOMAIN,azurapi.yostar.co.jp
-  - DOMAIN,blhxstatic.akamaized.net
+#  - DOMAIN,blhxstatic.akamaized.net
   - DOMAIN,blhxstatic.yo-star.com
   # > 雀魂
   - DOMAIN-SUFFIX,mahjongsoul.com
@@ -23,15 +23,13 @@ payload:
   - DOMAIN,priconne-redive.jp
   - DOMAIN,cygamespf.g.kuroco.app
   # > プリコネ
-  - DOMAIN,e9844.b.akamaiedge.net
   - DOMAIN,api-priconne-redive.cygames.jp
-  - DOMAIN,prd-priconne-redive.akamaized.net
+#  - DOMAIN,prd-priconne-redive.akamaized.net
   - DOMAIN-SUFFIX,priconne-redive.jp
- # - DOMAIN,a1902.dscb.akamai.net 
   # > ウマ娘
   - DOMAIN,api-umamusume.cygames.jp
-  - DOMAIN,prd-storage-game-umamusume.akamaized.net
-  - DOMAIN,prd-storage-app-umamusume.akamaized.net   
+#  - DOMAIN,prd-storage-game-umamusume.akamaized.net
+#  - DOMAIN,prd-storage-app-umamusume.akamaized.net   
   - DOMAIN,api.games.umamusume.jp
   # > PSO2 
   - DOMAIN,launcher.pso2.jp
