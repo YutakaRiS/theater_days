@@ -1,0 +1,15 @@
+name = ContentServer
+routing = 1
+# > アズールレーン
+2, blhxstatic.akamaized.net
+  # > 雀魂
+  # > ブルーアーカイブ
+  # > ミリシタ（ミリオンライブシアターディーズ）
+2, d2sf4w9bkv485c.cloudfront.net
+  # > シャニマス（シャイニーカラーズ）
+  # > プリコネ
+2, prd-priconne-redive.akamaized.net
+  # > ウマ娘
+2, prd-storage-game-umamusume.akamaized.net
+2, prd-storage-app-umamusume.akamaized.net
+  # > PSO2
