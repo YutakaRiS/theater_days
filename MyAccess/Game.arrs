@@ -1,0 +1,33 @@
+name = Game
+2, ddps.jp
+ # > アズールレーン
+2, blhxjploginapi.azurlane.jp
+2, azurapi.yostar.co.jp
+#2, blhxstatic.akamaized.net
+2, blhxstatic.yo-star.com
+ # > 雀魂
+2, mahjongsoul.com
+ # > ブルーアーカイブ
+2, bluearchive.jp
+2, bluearchiveyostar.com
+ # > ミリシタ（ミリオンライブシアターディーズ）
+2, theaterdays.appspot.com
+2, webview-dot-theaterdays.appspot.com
+2, d2sf4w9bkv485c.cloudfront.net
+ # > シャニマス（シャイニーカラーズ）
+2, enza.fun
+ # > cygames
+2, cygames.jp 
+2, cygames.com
+2, cygames.co.jp
+2, priconne-redive.jp
+2, cygamespf.g.kuroco.app
+ # > プリコネ
+2, api-priconne-redive.cygames.jp
+#2, prd-priconne-redive.akamaized.net
+2, priconne-redive.jp
+ # > ウマ娘
+2, api-umamusume.cygames.jp
+#2, prd-storage-game-umamusume.akamaized.net
+#2, prd-storage-app-umamusume.akamaized.net  
+2, api.games.umamusume.jp
