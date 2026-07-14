@@ -7,3 +7,6 @@ payload:
   - DOMAIN,ipinfo.io 
   - DOMAIN,ipwho.is 
   - DOMAIN,ident.me
+  - DOMAIN-SUFFIX,kotomo.app
+  - DOMAIN-SUFFIX,oics.net
+  - DOMAIN-SUFFIX,oixcloud.com
