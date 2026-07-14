@@ -31,3 +31,11 @@ name = Game
 #2, prd-storage-game-umamusume.akamaized.net
 #2, prd-storage-app-umamusume.akamaized.net  
 2, api.games.umamusume.jp
+# > PSO2 
+2, launcher.pso2.jp
+2, patch01.pso2gs.net
+0, 210.189.209.0/24
+0, 210.189.208.0/24
+2, mgr.gameguard.co.kr
+2, pso2gs.net
+2, download.pso2.jp 
